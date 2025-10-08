@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F9EF7&center=true&vCenter=true&multiline=false&width=600&lines=Senior+Software+Engineer+%7C+ML+Engineer;Data+Pipeline+Architect+%7C+Computer+Vision;Building+Scalable+AI+Solutions;Northeastern+University+MS+CS+Graduate)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3F9EF7&center=true&vCenter=true&multiline=false&width=800&lines=Senior+ML+Engineer+%7C+8%2B+Years+Experience;Fraud+Detection+%7C+NLP+%7C+Computer+Vision+%7C+MLOps;%2422M%2B+Revenue+Impact+%7C+%2415M%2B+Fraud+Prevention;Building+Scalable+Production+ML+Systems)](https://git.io/typing-svg)
 
 </div>
 
@@ -26,8 +26,8 @@ class SriramSohanBasa:
         self.role = "Senior Machine Learning Engineer"
         self.experience = "8+ years"
         self.education = {
-            "masters": "MS in Computer Science - Northeastern University (2025)",
-            "bachelors": "BTech in Computer Science - JNTU (2022)"
+            "masters": "MS in Computer Science - Northeastern University, Boston, MA",
+            "bachelors": "BTech in Computer Science - JNTU, India"
         }
         self.location = "New York, NY"
         
@@ -58,14 +58,42 @@ class SriramSohanBasa:
 
 ## 🚀 Professional Experience
 
-**Senior Software Engineer @ Capgemini** *(Jul 2022 - Jul 2023)*
-- Architected robust ETL/ELT pipelines processing 40% more data volume with 25% cost reduction
-- Implemented PySpark optimization strategies delivering **$250K annual savings**
-- Reduced report generation time from **4 hours to 30 minutes**, enabling $2.3M revenue growth
+**Senior Machine Learning Engineer @ Verizon** *(Jan 2025 - Present)*
+- Built customer churn prediction system achieving **87% precision at 65% recall**, reducing churn by **18%** in high-value segments
+- Deployed real-time fraud detection platform processing **5M+ daily transactions**, reducing fraudulent access by **67%** and saving **$6M annually**
+- Engineered network capacity forecasting models improving planning accuracy by **34%** across **2,500+ cell sites**
+- Designed conversational AI system handling **45K+ daily queries** with **78% automation rate**, reducing call center volume by **23%**
+- Built recommendation engine improving conversion rates by **19%**, generating **$8M incremental revenue**
 
-**Machine Learning Intern @ Verzeo** *(Jan 2020 - Mar 2020)*
-- Fine-tuned domain-specific BERT model achieving **94% F1 score** on healthcare claims
-- Developed FastAPI microservice on AWS ECS, reducing end-to-end latency by **30%**
+**Senior Machine Learning Engineer @ Fulcrum Technologies** *(Sep 2023 - Dec 2024)*
+- Architected hybrid recommendation system increasing CTR by **32%** and generating **$18M additional revenue**
+- Constructed real-time personalization engine processing **10M+ user interactions per hour** using two-tower neural networks
+- Delivered demand forecasting platform for **2M+ SKUs**, reducing stockouts by **35%** and overstock by **22%**
+- Built computer vision model processing **100K+ images daily** with **94% accuracy**
+- Reduced feature engineering time by **60%** through feature store implementation
+
+**Senior Machine Learning Engineer @ Alliance Bernstein** *(Oct 2021 - Jul 2023)*
+- Deployed fraud detection system reducing fraudulent transactions by **42%**, saving **$15M annually**
+- Engineered NLP pipeline processing **5M+ customer communications daily**, reducing response time by **35%**
+- Launched RAG-based chatbot handling **50K+ queries daily** with **89% resolution rate**
+- Reduced inference latency by **60%** and cut infrastructure costs by **$250K annually** through AWS SageMaker migration
+
+**Machine Learning Engineer @ Philips** *(Dec 2019 - Sep 2021)*
+- Designed deep learning model for medical image analysis achieving **91% accuracy** in early disease detection
+- Engineered NLP system for automated medical coding processing **100K+ clinical documents daily**, reducing errors by **38%**
+- Architected predictive analytics model reducing patient readmissions by **22%** with **86% accuracy**
+- Deployed diabetic retinopathy screening model processing **10K+ retinal images monthly** with **89% diagnostic accuracy**
+
+**Machine Learning Engineer @ Zensar Technologies** *(Sep 2018 - Nov 2019)*
+- Built next-gen recommendation system increasing revenue by **$2M annually**
+- Constructed visual search engine processing **500K+ queries monthly** with **88% retrieval accuracy**
+- Launched dynamic pricing model using reinforcement learning, increasing margins by **18%**
+- Deployed fraud detection system identifying **94% of fraudulent sellers** using graph neural networks
+
+**Machine Learning Engineer @ Zensar Technologies** *(Jan 2018 - Aug 2018)*
+- Developed RESTful microservice using FastAPI and Docker on AWS ECS with **30% latency reduction**
+- Integrated fine-tuned BERT model achieving **94% F1 score** for automated document analysis
+- Authored automation scripts reducing manual processing time by **20%**
 
 <br/>
 
@@ -74,6 +102,8 @@ class SriramSohanBasa:
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -91,15 +121,23 @@ class SriramSohanBasa:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-00A4E4?style=for-the-badge&logo=chainlink&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 ### Big Data & Cloud
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -107,6 +145,9 @@ class SriramSohanBasa:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 <br/>
 
@@ -125,7 +166,7 @@ class SriramSohanBasa:
 
 ## 🏆 Featured Projects
 
-### 🖼️ [Parallelized Image Captioning Pipeline](https://github.com/SriramSohanBasa)
+### 🖼️ [Parallelized Image Captioning Pipeline](https://github.com/SriramSohanBasa/Parallelized-Image-Captioning-Pipeline)
 **Tech:** PyTorch • CUDA • Multi-GPU • Dask • Computer Vision
 
 Built end-to-end encoder-decoder with Bahdanau attention, achieving **3.8× epoch speedup** with DistributedDataParallel across 4 GPUs. Leveraged Dask for **5.6× faster** COCO dataset ingestion on 12 cores.
@@ -134,10 +175,24 @@ Built end-to-end encoder-decoder with Bahdanau attention, achieving **3.8× epoc
 
 ---
 
-### 🎾 [Tennis Analysis System](https://github.com/SriramSohanBasa)
+### 🎾 [Tennis Analysis System](https://github.com/SriramSohanBasa/Tennis_analysis)
 **Tech:** YOLOv8 • OpenCV • PyTorch • Computer Vision
 
 Developed real-time player tracking at **60 FPS** with custom YOLOv5 model achieving **90% mAP** for ball detection. Deployed CNN for automated extraction of 14 2D court keypoints, calculating dynamic metrics up to **150 km/h**.
+
+---
+
+### 🤖 [Full-Stack Medical RAG System](https://github.com/SriramSohanBasa/FullStack_Medical_RAG)
+**Tech:** RAG • LangChain • Vector DB • FastAPI
+
+Built retrieval-augmented generation system for medical Q&A, combining LLM capabilities with domain-specific knowledge retrieval for accurate clinical information delivery.
+
+---
+
+### 🎮 [Reinforcement Learning Agents](https://github.com/SriramSohanBasa/Reinforcement_Learning)
+**Tech:** Deep RL • PyTorch • OpenAI Gym
+
+Implemented various RL algorithms including DQN, A3C, and PPO for game-playing agents, achieving superhuman performance on complex environments.
 
 ---
 
@@ -150,10 +205,12 @@ Fine-tuned domain-specific BERT model achieving **94% F1 score** for entity extr
 
 ## 🎯 What I'm Currently Working On
 
-- 🔬 Advanced research in **High-Performance Parallel Machine Learning**
-- 🚀 Building production-ready **ML pipelines** at scale
-- 🎨 Exploring **Computer Vision** applications in sports analytics
-- 📊 Optimizing **data engineering workflows** for cloud efficiency
+- 🚀 Architecting ML systems at **Verizon** for fraud detection and customer analytics
+- 🔬 Advanced research in **NLP & LLMs** (BERT, GPT, RAG architectures)
+- 🎨 Building production-ready **Computer Vision** solutions for real-world applications
+- 📊 Optimizing **MLOps pipelines** for scalable model deployment
+- 🏗️ Developing **recommendation systems** and personalization engines
+- ☁️ Implementing **cloud-native ML infrastructure** on AWS, Azure, and GCP
 
 <br/>
 
@@ -184,12 +241,17 @@ Fine-tuned domain-specific BERT model achieving **94% F1 score** for entity extr
 ## 📫 Let's Connect!
 
 I'm always interested in collaborating on innovative projects, especially in:
-- 🤖 Machine Learning & AI Applications
-- 📊 Data Engineering & Pipeline Optimization
-- 🎯 Computer Vision & Deep Learning
-- ☁️ Cloud Infrastructure & MLOps
+- 🤖 **Production ML Systems** & MLOps at Scale
+- 🧠 **NLP & LLMs** - RAG, Fine-tuning, Prompt Engineering
+- 👁️ **Computer Vision** - Object Detection, Segmentation, Classification
+- 📊 **Recommendation Systems** & Personalization Engines
+- 🔒 **Fraud Detection** & Risk Analytics
+- 🏥 **Healthcare AI** & Medical Imaging
+- ☁️ **Cloud ML Infrastructure** & Cost Optimization
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sriram-sohan-basa/) or [Email](mailto:basa.s@northeastern.edu)!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sriram-sohan-basa/) or [Email](mailto:bsriramsohan@gmail.com)!
+
+💼 **Open to:** Senior ML Engineer roles, ML Architect positions, and challenging ML problems at scale
 
 <br/>
 
