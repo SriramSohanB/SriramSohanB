@@ -23,28 +23,35 @@
 class SriramSohanBasa:
     def __init__(self):
         self.name = "Sriram Sohan Basa"
-        self.role = "Senior Software Engineer | ML Engineer"
+        self.role = "Senior Machine Learning Engineer"
+        self.experience = "8+ years"
         self.education = {
             "masters": "MS in Computer Science - Northeastern University (2025)",
             "bachelors": "BTech in Computer Science - JNTU (2022)"
         }
-        self.location = "Boston, MA"
+        self.location = "New York, NY"
         
-    def current_focus(self):
+    def specialization(self):
         return [
-            "Building scalable ETL/ELT data pipelines",
-            "Optimizing ML models for production",
-            "Computer Vision & Deep Learning projects",
-            "High-performance parallel computing with GPUs"
+            "End-to-end ML pipeline development",
+            "NLP & LLMs (BERT, GPT, Transformers)",
+            "Computer Vision (ResNet, U-Net, YOLO)",
+            "MLOps & Production Deployment",
+            "Fraud Detection & Risk Analytics",
+            "Recommendation Systems at Scale"
         ]
     
-    def highlights(self):
+    def business_impact(self):
         return {
-            "cost_optimization": "$250K annual cloud infrastructure savings",
-            "revenue_impact": "$2.3M client revenue growth through data insights",
-            "performance_boost": "45% efficiency increase in data workflows",
-            "speedup": "3.8× training speedup with multi-GPU parallelization"
+            "revenue_growth": "$22M+ sales growth through ML systems",
+            "fraud_prevention": "$15M+ annual savings in fraud detection",
+            "healthcare_impact": "22% reduction in hospital readmissions",
+            "cost_optimization": "$250K+ cloud infrastructure savings",
+            "churn_reduction": "18% decrease in customer churn"
         }
+    
+    def current_company(self):
+        return "Verizon | Senior ML Engineer (Jan 2025 - Present)"
 ```
 
 <br/>
