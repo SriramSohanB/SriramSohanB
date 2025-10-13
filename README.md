@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sriram%20Sohan%20Basa&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sriram%%20Basa&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://sriramsohan-basa.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/sriram-sohan-basa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sriram-bs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/SriramSohanB"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:basa.s@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -249,7 +249,7 @@ I'm always interested in collaborating on innovative projects, especially in:
 - 🏥 **Healthcare AI** & Medical Imaging
 - ☁️ **Cloud ML Infrastructure** & Cost Optimization
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sriram-sohan-basa/) or [Email](mailto:bsriramsohan@gmail.com)!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sriram-bs/) or [Email](mailto:bsriramsohan@gmail.com)!
 
 💼 **Open to:** Senior ML Engineer roles, ML Architect positions, and challenging ML problems at scale
 
