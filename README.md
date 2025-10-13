@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://sriramsohan-basa.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/sriram-sohan-basa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/SriramSohanBasa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/SriramSohanB"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:basa.s@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class SriramSohanBasa:
+class SriramSohanB:
     def __init__(self):
         self.name = "Sriram Sohan Basa"
         self.role = "Senior Machine Learning Engineer"
@@ -154,19 +154,19 @@ class SriramSohanBasa:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SriramSohanBasa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramSohanBasa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SriramSohanB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriramSohanB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriramSohanBasa&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriramSohanB&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 ## 🏆 Featured Projects
 
-### 🖼️ [Parallelized Image Captioning Pipeline](https://github.com/SriramSohanBasa/Parallelized-Image-Captioning-Pipeline)
+### 🖼️ [Parallelized Image Captioning Pipeline](https://github.com/SriramSohanB/Parallelized-Image-Captioning-Pipeline)
 **Tech:** PyTorch • CUDA • Multi-GPU • Dask • Computer Vision
 
 Built end-to-end encoder-decoder with Bahdanau attention, achieving **3.8× epoch speedup** with DistributedDataParallel across 4 GPUs. Leveraged Dask for **5.6× faster** COCO dataset ingestion on 12 cores.
@@ -175,28 +175,28 @@ Built end-to-end encoder-decoder with Bahdanau attention, achieving **3.8× epoc
 
 ---
 
-### 🎾 [Tennis Analysis System](https://github.com/SriramSohanBasa/Tennis_analysis)
+### 🎾 [Tennis Analysis System](https://github.com/SriramSohanB/Tennis_analysis)
 **Tech:** YOLOv8 • OpenCV • PyTorch • Computer Vision
 
 Developed real-time player tracking at **60 FPS** with custom YOLOv5 model achieving **90% mAP** for ball detection. Deployed CNN for automated extraction of 14 2D court keypoints, calculating dynamic metrics up to **150 km/h**.
 
 ---
 
-### 🤖 [Full-Stack Medical RAG System](https://github.com/SriramSohanBasa/FullStack_Medical_RAG)
+### 🤖 [Full-Stack Medical RAG System](https://github.com/SriramSohanB/FullStack_Medical_RAG)
 **Tech:** RAG • LangChain • Vector DB • FastAPI
 
 Built retrieval-augmented generation system for medical Q&A, combining LLM capabilities with domain-specific knowledge retrieval for accurate clinical information delivery.
 
 ---
 
-### 🎮 [Reinforcement Learning Agents](https://github.com/SriramSohanBasa/Reinforcement_Learning)
+### 🎮 [Reinforcement Learning Agents](https://github.com/SriramSohanB/Reinforcement_Learning)
 **Tech:** Deep RL • PyTorch • OpenAI Gym
 
 Implemented various RL algorithms including DQN, A3C, and PPO for game-playing agents, achieving superhuman performance on complex environments.
 
 ---
 
-### 🏥 [Healthcare Claims NLP System](https://github.com/SriramSohanBasa)
+### 🏥 [Healthcare Claims NLP System](https://github.com/SriramSohanB)
 **Tech:** BERT • FastAPI • Docker • AWS ECS
 
 Fine-tuned domain-specific BERT model achieving **94% F1 score** for entity extraction. Containerized FastAPI microservice reduced latency by **30%** and processing time by **20%**.
@@ -217,7 +217,7 @@ Fine-tuned domain-specific BERT model achieving **94% F1 score** for entity extr
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SriramSohanBasa&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SriramSohanB&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 <br/>
@@ -225,7 +225,7 @@ Fine-tuned domain-specific BERT model achieving **94% F1 score** for entity extr
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SriramSohanBasa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SriramSohanB&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
@@ -258,7 +258,7 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sriram-sohan-b
 ## 📊 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SriramSohanBasa&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SriramSohanB&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <br/>
